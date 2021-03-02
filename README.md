@@ -1,4 +1,4 @@
-## **Olá a todos**
+## **Olá, pessoal!** 👋
 
 Me chamo Victor Epifânio, sou estudante de Ciência da Computação e tenho o desejo de me tornar um desenvolvedor web.
 
