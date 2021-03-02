@@ -1,16 +1,20 @@
-### Hi there 👋
+## **Hello everyone**
 
-<!--
-**vepifanio/vepifanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Victor Epifânio, I'm a student of Computer Science, with the desire to become a web developer.
 
-Here are some ideas to get you started:
+I learn fast and I like new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📍 From São Luís, MA
+#### 💻 Intern at Faculdade Laboro - Systems development
+
+## Social
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-epif%C3%A2nio-666380181/)
+
+##  🚀Studying
+
+<p align="left>
+<!
+          
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ 
+ <img src ="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />                                                                                                                        
