@@ -1,16 +1,16 @@
-## **Hello everyone**
+## **Olá a todos**
 
-My name is Victor Epifânio, I'm a student of Computer Science, with the desire to become a web developer.
+Me chamo Victor Epifânio, sou estudante de Ciência da Computação e tenho o desejo de me tornar um desenvolvedor web.
 
-I learn fast and I like new challenges.
+Aprendo rápido e gosto de novos desafios, então vamos lá!
 
-#### 📍 From São Luís, MA
-#### 💻 Intern at Faculdade Laboro - Systems development
+#### 📍 De São Luís, MA
+#### 💻 Estagiário na Faculdade Laboro - Auxílio no desenvolvimento de sistemas
 
 ## Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-epif%C3%A2nio-666380181/)
 
-##  🚀Studying
+##  🚀Estudando
 
 <p align="left>
 <!
