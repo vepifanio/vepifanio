@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Victor Epifânio</h1>
-<h3 align="center">I am a student of Computer Science and I have the desire to become a web developer.</h3>
+<h3 align="center">I am a Computer Science student with the desire to become a web development professional.
+</h3>
 
 - 🔭 Intern on **Faculdade Laboro - Developing and Maintain systems**
 
