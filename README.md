@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Science student with the desire to become a web development professional.
 </h3>
 
-- 🔭 Intern on **Faculdade Laboro - Developing and Maintain systems**
+- 🔭 Jr Developer on **D1 | Smarkio - Developing and Maintain chatbots**
 
 - 🌱 I’m currently learning **NodeJS, Typescript, SOLID and more about design patterns**
 
