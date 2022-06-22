@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Victor Epifânio</h1>
-<h3 align="center">I am a Computer Science student with the desire to become a web development professional.
+<h3 align="center">I'm a Computer Science student with the desire to become a professional Web Developer.
 </h3>
 
 - 🔭 Jr Developer on **D1 | Smarkio - Developing and Maintain chatbots**
 
-- 🌱 I’m currently learning **NodeJS, Typescript, SOLID and more about design patterns**
+- 🌱 I’m currently learning **NodeJS, React, Typescript, SOLID and more about design patterns**
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-epif%C3%A2nio-666380181/)
 
