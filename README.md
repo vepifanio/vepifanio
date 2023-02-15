@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Victor Epifânio</h1>
-<h3 align="center">I'm a Computer Science student with the desire to become a professional Web Developer.
+<h3 align="center">I'm a Computer Science student with the desire to become a professional Software Developer.
 </h3>
 
 - 🌱 I’m currently learning **NodeJS, React, Typescript, SOLID and more about design patterns**
