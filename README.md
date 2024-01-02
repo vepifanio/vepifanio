@@ -31,3 +31,4 @@
 <p></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vepifanio&show_icons=true&theme=tokyonight" alt="vepifanio" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vepifanio&theme=dark" alt="vepifanio" /></p>
