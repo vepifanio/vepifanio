@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Victor Epifânio</h1>
-<h3 align="center">Web developer focused on the JavaScript ecosystem.
-</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **NodeJS, React, Typescript, SOLID, and more about design patterns**
+- 🌱 I’m currently learning **NodeJS, React, Typescript, SOLID, and more about design patterns.**
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-epif%C3%A2nio-666380181/)
 
