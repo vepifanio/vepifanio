@@ -26,8 +26,3 @@
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" /> </a>
-
-<p></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vepifanio&show_icons=true&theme=tokyonight" alt="vepifanio" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vepifanio&theme=dark" alt="vepifanio" /></p>
